@@ -1,4 +1,6 @@
 # This is an uncompleted game project, purpose for learn Database programming in game development
+If you want to download a playable DEMO, check the project folder with 'DEMO'
+
 
 # Game Design document:
 # Database Programming\_Tower Climber Alpha
