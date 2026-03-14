@@ -1,3 +1,6 @@
+# This is an uncompleted game project, purpose for learn Database programming in game development
+
+# Game Design document:
 # Database Programming\_Tower Climber Alpha
 
 # 1\. Overview
